@@ -1,3 +1,4 @@
+add tag 0.9.4
 ## Magical Data Modelling Framework for JSON
 
 ![JSONModel for iOS and OSX](http://jsonmodel.com/img/jsonmodel_logolike.png)
